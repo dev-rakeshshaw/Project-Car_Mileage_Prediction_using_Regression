@@ -1,6 +1,5 @@
 # Project-Car_Mileage_Prediction_using_Regression
 
-![image](https://user-images.githubusercontent.com/88075256/154448894-cf0aec29-43c6-4577-9fb4-99c5d2a06018.png)
 
 This Project is intended to develop a model to predict the mileage of a car in the city.
 
