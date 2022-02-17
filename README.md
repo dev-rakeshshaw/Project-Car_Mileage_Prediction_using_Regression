@@ -4,8 +4,6 @@ This Project is intended to develop a model to predict the mileage of a car in t
 Introduction:
 The dataset has 14 variables, of which, 6 are categorical and 9 are numerical. There are 428 observations in the dataset. 
 
-URL: https://www.kaggle.com/ljanjughazyan/cars1#CARS.csv
-
 Variables in the Dataset
 
 •	Manuf: Manufacturer, Categorical
